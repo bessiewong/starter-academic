@@ -77,6 +77,6 @@ user_groups:
 
 Hi there! 
 
-I'm Bessie, a creative and energetic Communication student based in Vancouver, BC. Most recently, I was the Communications Assistant for British Columbias' Real Estate Regulator as well as a self-employed English Tutor. During my downtime, I love reading new novels and practicing yoga.
+I'm Bessie, a creative and energetic Communication student based in Vancouver, BC. With several internships in marketing and communications, I have a well-rounded experience in social media marketing, blog writing, Powerpoint Presentations and more. 
 
 Scroll down to find out more!
