@@ -26,7 +26,7 @@ image:
 projects: []
 ---
 
-![Conversation Partners in conversation about language, learning, and SFU.](./Screen Shot 2020-09-01 at 9.20.56 PM.png)
+![Conversation Partners in conversation about language, learning, and SFU.](./Screen%20Shot%202020-09-01%20at%209.20.56%20PM.png)
 
 The  [SLC Conversation Partners Program](https://www.lib.sfu.ca/about/branches-depts/slc/eal/conversation/registration-form-eal-esl-students)  pairs EAL students with volunteer peers. Conversation partners then meet on a weekly basis throughout the semester.
 
