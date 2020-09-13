@@ -26,7 +26,7 @@ image:
 projects: []
 ---
 
-![Vancouver skyline](/bessie2.png)
+![Vancouver skyline](./bessie2.png)
 
 It’s two hours past lunchtime, and you’re starting to feel it - you slowly start to doze off. The mid-day crash has got you feeling all the feels. Sleepiness is a natural response of our bodies after a meal as the digestion process occurs. While we’ve all been there, you don’t want to make it a habit and hinder your work productivity- especially while you are on a co-op work term!
 
