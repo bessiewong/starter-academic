@@ -28,8 +28,8 @@ projects: []
 
 Willow Lash Lab Posts February 2018-May 2018.
 
-1. ![png](/IMG_4883.jpg)
-2. ![png](/IMG_4884.jpg)
+1. ![png](./IMG_4883.jpg)
+2. ![png](./IMG_4884.jpg)
 3. ![png](./IMG_4885.jpg)
 4. ![png](./IMG_4886.jpg)
 5. ![png](./IMG_4888.jpg)
