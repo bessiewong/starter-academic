@@ -70,4 +70,4 @@ In this blog post, SLC Peer  **Bessie W.** interviewed two of her conversation p
 
 -- **Bessie W.** has been an EAL Peer at the Student Learning Commons since 2015. She enjoys learning about various cultures and languages around the world. She is a Communications student with an interest in writing and social media marketing.
 
-Read the original post [here] (https://www.lib.sfu.ca/about/branches-depts/slc/incommon/conversation-partners-interview).
+Read the original post [here](https://www.lib.sfu.ca/about/branches-depts/slc/incommon/conversation-partners-interview).
