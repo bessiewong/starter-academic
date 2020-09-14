@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   
   * Developed and executed a [Social Media Implementation Plan](https://drive.google.com/file/d/1Bli-lYeepWaW9UzH6eAmyKjNH6AOaKUn/view "Social Media Implementation Plan"), including creating and scheduling content/Ad copy for platforms through Hootsuite
   * Assisted in the development, production, and distribution of internal and external communications materials, including newsletters, media releases, powerpoint presentations and webpage releases
-  * Worked alonside a team of 5-7 people to collaborate and draft projects while taking initiative to independely tackle goals
+  * Worked alonside a team of 5-7 people to collaborate and draft projects while taking initiative to independently tackle goals
   """
 
 [[experience]]
