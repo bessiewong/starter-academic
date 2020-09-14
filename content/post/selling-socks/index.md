@@ -26,48 +26,37 @@ image:
 projects: []
 ---
 
-![Conversation Partners in conversation about language, learning, and SFU.](./pxfuel.com-id-xppht.jpg)
+![Conversation Partners in conversation about language, learning, and SFU.](./5-EAL-RESOURCES.png)
 
-The  [SLC Conversation Partners Program](https://www.lib.sfu.ca/about/branches-depts/slc/eal/conversation/registration-form-eal-esl-students)  pairs EAL students with volunteer peers. Conversation partners then meet on a weekly basis throughout the semester.
+Program?**
 
-In this blog post, SLC Peer  **Bessie W.** interviewed two of her conversation partners, Bin and Dan, to hear their unique perspectives on the program and their experiences at SFU.
+1. Duolingo
 
-**Bin**  is an Economics student who arrived in Canada three years ago from the Guangdong province of China.
+This handy web and mobile app lets users learn a multitude of languages including English. You'll go through different levels and checkpoints, mastering grammar, and reading and learning new vocabulary along the way. Challenge yourself to complete one lesson a day in order to gain more points, which you can then use for rewards. The cute little Mascot named Duo will be your personal supporter!
 
-**Dan**  is an Interactive Arts and Technology student from the SiChuan province of China.
+2. SFU Library Criterion Collection 
 
-**What motivated you to participate in the SLC Conversation Partners Program?**
+Perhaps you've run out of Netflix shows to watch or maybe you're looking for something a little less mainstream... if so, check out Criterion, a database filled with movies and documentaries, all for FREE. All you need is your SFU ID and password to get access. Don't forget the popcorn!
 
-**Dan:**  For international students, language is the first challenge, especially for first year students. There is no other way for us to know the cultural differences and having a conversational partner will help us to understand. A lot of the English we learned in high school is not applicable to what we actually say in an English-speaking country.
+3. Phrasal Verb Dictionary
 
-**Bin:** I was planning to sign up for co-op next semester and wanted someone to practice my speaking skills with because there will be lots of situations where I will need to speak my opinions, such as during interviews.
+What do the phrases "to hand off," "to hand down," and "to hand in" all have in common? (besides the fact that they all use the word "hand" and can get confusing!) They're all phrasal verbs, a heavily used way to speak and make sense of what someone else is talking about. Use this dictionary to familiarize yourself with more examples and sentences you could use in your daily life!
 
-**What is your biggest takeaway from the program so far? What did you enjoy the most?**
+4. ESL-Lab
 
-**Dan:**  Before attending this program, I was not comfortable speaking in discussions and teamwork and I was fearful that they wouldn’t take my opinions seriously. Now, I have the courage to speak out and express myself, especially among English speakers.
+This is a great tool for those wanting more practice in their listening and comprehension. With hundreds of audio clips ranging from beginner to advanced, you'll be sure to gain a better understanding. Topics include gardening, the dating scene, vacations, and dinner recipes.
 
-**Bin:** I was provided with a great opportunity to practice and improve my English speaking skills. My peer was like a mentor to me because she was patient with me, and it was an open space where I could ask questions. We even talked about the past election that occurred!
+5. Breaking News English
 
-**Where do you see yourself in five years? Staying in Canada or elsewhere?**
+Based on true current events, this website helps readers learn more about the world in an English setting. The best part is that all topics have various levels available when you want to brush up or when you want a challenge! The topics are great for having discussions and testing out your reading comprehension.
 
-**Dan:**  I hope to graduate and find a job here. My goal is to make a living by myself, with no financial support from my parents. My own mindset has changed a lot after living in Canada, so I might not follow the culture back in China. For example, people doing business in China often talk indirectly when giving feedback or criticism, but I prefer people to be direct.
+So what are you waiting for? Go check out some of these online resources and work on your skills everyday to see improvements. Good luck!
 
-**Bin:**  For myself, I would ideally like to work for 2-3 years after graduation and then move back to China. Family is important to me and that is a motivational factor for me. It is where I feel the most at home, where I belong.
+ 
 
-**What are some of the struggles of living as an EAL student at SFU/ in Canada?**
+- Bessie W., SLC EAL Peer  
 
-**Dan:** During my first year as a Fraser International College student, I couldn’t understand the academic language from the professors. I would question their processes because of the cultural difference.
+ 
 
-**Bin:** Academically, listening is hard because we end up falling more behind and have to make up with extra study time in order to fully understand the material. Participation is a big deal in universities in Canada, so we must speak up in order to earn marks, but sometimes we might be judged or critiqued from our lack of English.
-
-**What are some things that you would like non-EAL students to know?**
-
-**Dan:** This program is not just for learning and improving the English language, but through language we can learn a lot of people’s ideologies and their thoughts, and how they engage in their ideas. We both learn from each others’ perspectives.
-
-**Bin:**  Learning a language is a continuous process, it takes time and as much as you learn it, you also need to use it. The most important thing is that you need to find a real interest so that you can practice. Maybe that is watching a TV show or reading a book in that language.
-
-**Thank you both for sharing your thoughts and experiences!**
-
--- **Bessie W.** has been an EAL Peer at the Student Learning Commons since 2015. She enjoys learning about various cultures and languages around the world. She is a Communications student with an interest in writing and social media marketing.
-
+image credit: Bessie Wong, made using Canva 
 Read the original post [here](https://www.lib.sfu.ca/about/branches-depts/slc/incommon/conversation-partners-interview).
