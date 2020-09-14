@@ -77,6 +77,6 @@ user_groups:
 
 Nice to meet you! 
 
-I'm Bessie, a creative and energetic Communication student based in Vancouver, BC. After several internships as a Communication and Marketing Asisstant, I have over 2 years experience with social media marketing, writing & draft blog posts, implementation plans, as well as working on webpage editing. 
+I'm Bessie, a creative and energetic Communication student based in Vancouver, BC. After several internships as a Communication and Marketing Assistant, I have over 2 years experience with social media marketing, writing & draft blog posts, implementation plans, as well as working on webpage editing. 
 
 Scroll down to learn more!
