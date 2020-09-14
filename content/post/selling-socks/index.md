@@ -1,7 +1,7 @@
 ---
-title: "Blog: Speaking Between Two cultures: An interview"
-subtitle: Find out what it's like to be an international student with Bin and Dan!
-summary: Find out what it's like to be an international student with Bin and Dan!
+title: "Blog: 5 EAL resources to check out during self-isolation/quarantine"
+subtitle: Being stuck at home doesn't mean the learning needs to stop!
+summary: Being stuck at home doesn't mean the learning needs to stop! Use this opportunity to spend time on your language learning goals. Check out my top 5 tips on where to find (free!) language learning resources: 
 authors:
 - admin
 tags: []
