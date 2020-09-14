@@ -44,7 +44,7 @@ bio: A creative and energetic communication student based in Vancouver, BC.
 social:
 - icon: paper-plane
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:wongbessie12@gmail.com".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/bessie-wong
@@ -75,8 +75,8 @@ user_groups:
 <br/>
 <br/>
 
-Hi there! 
+Nice to meet you! 
 
-I'm Bessie, a creative and energetic Communication student based in Vancouver, BC. With several internships in marketing and communications, I have a well-rounded experience in social media marketing, blog writing, Powerpoint Presentations and more. 
+I'm Bessie, a creative and energetic Communication student based in Vancouver, BC. After several internships as a Communication and Marketing Asisstant, I have over 2 years experience with social media marketing, writing & draft blog posts, implementation plans, as well as working on webpage editing. 
 
-Scroll down to find out more!
+Scroll down to learn more!
