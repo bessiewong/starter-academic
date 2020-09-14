@@ -24,11 +24,12 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
 ---
 
 ![Conversation Partners in conversation about language, learning, and SFU.](./5-EAL-RESOURCES.png)
 
-Program?**
+
 
 1. Duolingo
 
