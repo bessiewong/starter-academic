@@ -23,13 +23,13 @@ date_format = "Jan 2006"
   company_url = "https://www.recbc.ca"
   location = "Vancouver, Canada"
   date_start = "2019-01-01"
-  date_end = "2020-01-01"
+  date_end = "2020-09-03"
   description = """
   Responsibilities include:
   
-  * Developed and executed a social media plan and created content/Ad copy for new platforms such as FB, Twitter and LinkedIn through Hootsuite
-  * Assisted in the development, production, and distribution of external communications materials, including fact sheets, brochures, newsletters, media releases, eblasts, and PowerPoint presentations
-  * Worked with team members to research and draft stories and edit and proofread copy on both documents and Wordpress website
+  * Developed and executed a [Social Media Implementation Plan](https://drive.google.com/file/d/1Bli-lYeepWaW9UzH6eAmyKjNH6AOaKUn/view "Social Media Implementation Plan"), including creating and scheduling content/Ad copy for platforms through Hootsuite
+  * Assisted in the development, production, and distribution of internal and external communications materials, including newsletters, media releases, powerpoint presentations and webpage releases
+  * Worked alonside a team of 5-7 people to collaborate and draft projects while taking initiative to independely tackle goals
   """
 
 [[experience]]
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Curated and mantained social media platforms while engaging audiences such as using #tuesdaytips and showcasing client photos
+  * Curated and mantained social media platforms while engaging audiences such as using #tuesdaytips and showcasing [client photos](https://bessiewong.netlify.app/post/social-media/ "client photos")
   * Responded to emails and calls in a timely and professional manner while informing potential clients of our services
   * Scheduled and managed over 50 appointments on a weekly basis and handled all cash flows 
   """
@@ -79,3 +79,4 @@ date_format = "Jan 2006"
   """
 
 +++
+
