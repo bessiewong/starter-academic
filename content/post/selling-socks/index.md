@@ -59,6 +59,7 @@ Bessie W., SLC EAL Peer
 
  
 
-image credit: Bessie Wong, made using Canva 
+image credit: Bessie Wong, made using Canva.
+
 Read the original post [[here](https://www.lib.sfu.ca/about/branches-depts/slc/incommon/eal-quarantine-resources "here")
 
