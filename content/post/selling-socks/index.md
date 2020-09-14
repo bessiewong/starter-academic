@@ -1,13 +1,12 @@
 ---
-title: "Blog: Speaking Between Two cultures: An interview"
-subtitle: Find out what it's like to be an international student with Bin and Dan!
-summary: Find out what it's like to be an international student with Bin and Dan!
+title: "Blog: 5 EAL resources to check out during self-isolation/quarantine"
+subtitle: Being stuck at home doesn't mean the learning needs to stop! Use this opportunity to spend time on your language learning goals. Check out my top 5 tips on where to find (free!) language learning resources: 
 authors:
 - admin
 tags: []
 categories: []
-date: "2019-11-26T00:00:00Z"
-lastMod: "2019-11-26T00:00:00Z"
+date: "2020-08-11 T00:00:00Z"
+lastMod: "2020-08-11T00:00:00Z"
 featured: false
 draft: false
 
@@ -26,7 +25,7 @@ image:
 projects: []
 ---
 
-![Conversation Partners in conversation about language, learning, and SFU.](./Screen%20Shot%202020-09-01%20at%209.20.56%20PM.png)
+![Conversation Partners in conversation about language, learning, and SFU.](./5-EAL-RESOURCES.png)
 
 The  [SLC Conversation Partners Program](https://www.lib.sfu.ca/about/branches-depts/slc/eal/conversation/registration-form-eal-esl-students)  pairs EAL students with volunteer peers. Conversation partners then meet on a weekly basis throughout the semester.
 
@@ -71,3 +70,4 @@ In this blog post, SLC Peer  **Bessie W.** interviewed two of her conversation p
 -- **Bessie W.** has been an EAL Peer at the Student Learning Commons since 2015. She enjoys learning about various cultures and languages around the world. She is a Communications student with an interest in writing and social media marketing.
 
 Read the original post [here](https://www.lib.sfu.ca/about/branches-depts/slc/incommon/conversation-partners-interview).
+
